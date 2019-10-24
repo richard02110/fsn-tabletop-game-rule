@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[25],{166:function(a){a.exports=JSON.parse('{"allTagsPath":"/fsn-tabletop-game-rule/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/fsn-tabletop-game-rule/blog/tags/facebook"}')}}]);
