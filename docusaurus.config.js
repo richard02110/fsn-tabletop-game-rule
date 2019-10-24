@@ -15,7 +15,7 @@ module.exports = {
   projectName: 'fsn-tabletop-game-rule', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Fate/stay night 桌遊中文規則',
+      title: 'Fate/stay night',
       logo: {
         alt: 'Logo',
         src: 'img/logo.svg',
