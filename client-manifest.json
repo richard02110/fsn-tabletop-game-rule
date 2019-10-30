@@ -5,572 +5,286 @@
   "origins": {
     "0": [
       1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      8,
-      39,
+      18,
+      19,
       0
-    ],
-    "1": [
-      0,
-      3,
-      4,
-      6,
-      8,
-      1
     ],
     "@site/src/pages/index.js": [
       0,
-      2
-    ],
-    "@theme/BlogListPage": [
-      0,
-      1,
-      3
-    ],
-    "@theme/BlogPostPage": [
-      0,
-      1,
-      4
-    ],
-    "@theme/BlogTagsListPage": [
-      0,
-      5
-    ],
-    "@theme/BlogTagsPostsPage": [
-      0,
-      1,
-      6
+      1
     ],
     "@theme/DocItem": [
+      2
+    ],
+    "@site/docs/doc1.md": [
+      3
+    ],
+    "@site/docs/doc2.md": [
+      4
+    ],
+    "@site/docs/doc3.md": [
+      5
+    ],
+    "@site/docs/doc4.md": [
+      6
+    ],
+    "@site/docs/doc5.md": [
       7
+    ],
+    "@site/docs/mdx.md": [
+      8
+    ],
+    "@docusaurus-plugin-content-docs/fsn-tabletop-game-rule-docs-e61.json": [
+      9
+    ],
+    "main": [
+      17,
+      10
+    ],
+    "@docusaurus-plugin-content-docs/fsn-tabletop-game-rule-docs-doc-1-58f.json": [
+      11
+    ],
+    "@docusaurus-plugin-content-docs/fsn-tabletop-game-rule-docs-doc-2-48d.json": [
+      12
+    ],
+    "@docusaurus-plugin-content-docs/fsn-tabletop-game-rule-docs-doc-3-a3d.json": [
+      13
+    ],
+    "@docusaurus-plugin-content-docs/fsn-tabletop-game-rule-docs-doc-4-728.json": [
+      14
+    ],
+    "@docusaurus-plugin-content-docs/fsn-tabletop-game-rule-docs-doc-5-de9.json": [
+      15
+    ],
+    "@docusaurus-plugin-content-docs/fsn-tabletop-game-rule-docs-mdx-aea.json": [
+      16
+    ],
+    "runtime~main": [
+      10,
+      17
     ],
     "@theme/DocPage": [
       0,
-      1,
-      8
-    ],
-    "@site/blog/2019-05-29-hello-world.md?truncated=true": [
-      9
-    ],
-    "@site/blog/2019-05-28-hola.md?truncated=true": [
-      10
-    ],
-    "@site/blog/2019-05-29-hello-world.md": [
-      11
-    ],
-    "@site/blog/2019-05-28-hola.md": [
-      12
-    ],
-    "@site/blog/2019-05-30-welcome.md": [
-      13
-    ],
-    "@site/blog/2019-05-30-welcome.md?truncated=true": [
-      14
-    ],
-    "@site/docs/doc1.md": [
-      15
-    ],
-    "@site/docs/doc2.md": [
-      16
-    ],
-    "@site/docs/doc3.md": [
-      17
-    ],
-    "@site/docs/doc4.md": [
       18
-    ],
-    "@site/docs/doc5.md": [
-      19
-    ],
-    "@site/docs/mdx.md": [
-      20
-    ],
-    "@docusaurus-plugin-content-docs/fsn-tabletop-game-rule-docs-e61.json": [
-      21
-    ],
-    "main": [
-      37,
-      22
-    ],
-    "@docusaurus-plugin-content-blog/fsn-tabletop-game-rule-blog-ffc.json": [
-      23
-    ],
-    "@docusaurus-plugin-content-blog/fsn-tabletop-game-rule-blog-tags-docusaurus-576.json": [
-      24
-    ],
-    "@docusaurus-plugin-content-blog/fsn-tabletop-game-rule-blog-tags-facebook-0a7.json": [
-      25
-    ],
-    "@docusaurus-plugin-content-blog/fsn-tabletop-game-rule-blog-tags-hello-92f.json": [
-      26
-    ],
-    "@docusaurus-plugin-content-blog/fsn-tabletop-game-rule-blog-tags-hola-a3b.json": [
-      27
-    ],
-    "@docusaurus-plugin-content-blog/fsn-tabletop-game-rule-blog-welcome-e4c.json": [
-      28
-    ],
-    "@docusaurus-plugin-content-docs/fsn-tabletop-game-rule-docs-doc-1-58f.json": [
-      29
-    ],
-    "@docusaurus-plugin-content-docs/fsn-tabletop-game-rule-docs-doc-2-48d.json": [
-      30
-    ],
-    "@docusaurus-plugin-content-docs/fsn-tabletop-game-rule-docs-doc-3-a3d.json": [
-      31
-    ],
-    "@docusaurus-plugin-content-docs/fsn-tabletop-game-rule-docs-doc-4-728.json": [
-      32
-    ],
-    "@docusaurus-plugin-content-docs/fsn-tabletop-game-rule-docs-doc-5-de9.json": [
-      33
-    ],
-    "@docusaurus-plugin-content-docs/fsn-tabletop-game-rule-docs-mdx-aea.json": [
-      34
-    ],
-    "@docusaurus-plugin-content-blog/fsn-tabletop-game-rule-blog-hola-502.json": [
-      35
-    ],
-    "@docusaurus-plugin-content-blog/fsn-tabletop-game-rule-blog-hello-world-f92.json": [
-      36
-    ],
-    "runtime~main": [
-      22,
-      37
-    ],
-    "@docusaurus-plugin-content-blog/fsn-tabletop-game-rule-blog-tags-tags-7e6.json": [
-      38
     ],
     "@theme/NotFound": [
       0,
-      39
+      19
     ]
   },
   "assets": {
     "0": {
       "css": [
         {
-          "file": "0.753b91118bbb7ba96e3c.css",
-          "hash": "98cde2970fe9f74ddb9e",
-          "publicPath": "/fsn-tabletop-game-rule/0.753b91118bbb7ba96e3c.css"
+          "file": "0.3bfe0c00301494d2e2b7.css",
+          "hash": "326af977414d61ab8002",
+          "publicPath": "/fsn-tabletop-game-rule/0.3bfe0c00301494d2e2b7.css"
         }
       ],
       "js": [
         {
-          "file": "0.35dfabbec28fe6e2de27.js",
-          "hash": "98cde2970fe9f74ddb9e",
-          "publicPath": "/fsn-tabletop-game-rule/0.35dfabbec28fe6e2de27.js"
+          "file": "0.123476e303c7eb153b0d.js",
+          "hash": "326af977414d61ab8002",
+          "publicPath": "/fsn-tabletop-game-rule/0.123476e303c7eb153b0d.js"
         }
       ]
     },
     "1": {
       "css": [
         {
-          "file": "1.c1a127e4736922edeb2a.css",
-          "hash": "a93c3e18974fed162dae",
-          "publicPath": "/fsn-tabletop-game-rule/1.c1a127e4736922edeb2a.css"
+          "file": "component---site-src-pages-index-jsc-4-f-f99.9f99729bff7f082bd679.css",
+          "hash": "740177d55c664cdd47fc",
+          "publicPath": "/fsn-tabletop-game-rule/component---site-src-pages-index-jsc-4-f-f99.9f99729bff7f082bd679.css"
         }
       ],
       "js": [
         {
-          "file": "1.13b879799cac6c813cd9.js",
-          "hash": "a93c3e18974fed162dae",
-          "publicPath": "/fsn-tabletop-game-rule/1.13b879799cac6c813cd9.js"
+          "file": "component---site-src-pages-index-jsc-4-f-f99.5853ce977aa58e606f99.js",
+          "hash": "740177d55c664cdd47fc",
+          "publicPath": "/fsn-tabletop-game-rule/component---site-src-pages-index-jsc-4-f-f99.5853ce977aa58e606f99.js"
         }
       ]
     },
     "2": {
       "css": [
         {
-          "file": "component---site-src-pages-index-jsc-4-f-f99.9f99729bff7f082bd679.css",
-          "hash": "29740442a0b76129430e",
-          "publicPath": "/fsn-tabletop-game-rule/component---site-src-pages-index-jsc-4-f-f99.9f99729bff7f082bd679.css"
+          "file": "component---theme-doc-item-178-a40.de2648345892298aff25.css",
+          "hash": "cf567edbc14059568228",
+          "publicPath": "/fsn-tabletop-game-rule/component---theme-doc-item-178-a40.de2648345892298aff25.css"
         }
       ],
       "js": [
         {
-          "file": "component---site-src-pages-index-jsc-4-f-f99.b12fa968a309caeb1888.js",
-          "hash": "29740442a0b76129430e",
-          "publicPath": "/fsn-tabletop-game-rule/component---site-src-pages-index-jsc-4-f-f99.b12fa968a309caeb1888.js"
+          "file": "component---theme-doc-item-178-a40.5c3b24e7ca79794dc9eb.js",
+          "hash": "cf567edbc14059568228",
+          "publicPath": "/fsn-tabletop-game-rule/component---theme-doc-item-178-a40.5c3b24e7ca79794dc9eb.js"
         }
       ]
     },
     "3": {
-      "css": [
-        {
-          "file": "component---theme-blog-list-pagea-6-a-7ba.42d18faa279882580cbb.css",
-          "hash": "fb7cb3858cdb4923adec",
-          "publicPath": "/fsn-tabletop-game-rule/component---theme-blog-list-pagea-6-a-7ba.42d18faa279882580cbb.css"
-        }
-      ],
       "js": [
         {
-          "file": "component---theme-blog-list-pagea-6-a-7ba.893e1e9fafbe61123a1d.js",
-          "hash": "fb7cb3858cdb4923adec",
-          "publicPath": "/fsn-tabletop-game-rule/component---theme-blog-list-pagea-6-a-7ba.893e1e9fafbe61123a1d.js"
+          "file": "content---fsn-tabletop-game-rule-docs-doc-1-b-2-f-672.d76831e52646ba50671e.js",
+          "hash": "4220778ccddeb90aaf43",
+          "publicPath": "/fsn-tabletop-game-rule/content---fsn-tabletop-game-rule-docs-doc-1-b-2-f-672.d76831e52646ba50671e.js"
         }
       ]
     },
     "4": {
-      "css": [
-        {
-          "file": "component---theme-blog-post-pageccc-cab.42d18faa279882580cbb.css",
-          "hash": "56e85169ed032b228292",
-          "publicPath": "/fsn-tabletop-game-rule/component---theme-blog-post-pageccc-cab.42d18faa279882580cbb.css"
-        }
-      ],
       "js": [
         {
-          "file": "component---theme-blog-post-pageccc-cab.38a6f74ba4f4d4e6a5c0.js",
-          "hash": "56e85169ed032b228292",
-          "publicPath": "/fsn-tabletop-game-rule/component---theme-blog-post-pageccc-cab.38a6f74ba4f4d4e6a5c0.js"
+          "file": "content---fsn-tabletop-game-rule-docs-doc-2-df-3-1b4.436a73070aae75e121a5.js",
+          "hash": "57f219551e1fc76abc39",
+          "publicPath": "/fsn-tabletop-game-rule/content---fsn-tabletop-game-rule-docs-doc-2-df-3-1b4.436a73070aae75e121a5.js"
         }
       ]
     },
     "5": {
       "js": [
         {
-          "file": "component---theme-blog-tags-list-page-01-a-d0b.5e0844926d423a1ee129.js",
-          "hash": "d5cc479eba2302ae5605",
-          "publicPath": "/fsn-tabletop-game-rule/component---theme-blog-tags-list-page-01-a-d0b.5e0844926d423a1ee129.js"
+          "file": "content---fsn-tabletop-game-rule-docs-doc-3616-7c6.3700b9ec5ec7d25f9445.js",
+          "hash": "9812bae90b41addbb705",
+          "publicPath": "/fsn-tabletop-game-rule/content---fsn-tabletop-game-rule-docs-doc-3616-7c6.3700b9ec5ec7d25f9445.js"
         }
       ]
     },
     "6": {
-      "css": [
-        {
-          "file": "component---theme-blog-tags-posts-page-687-b6c.42d18faa279882580cbb.css",
-          "hash": "6d01207dff9b01c2a847",
-          "publicPath": "/fsn-tabletop-game-rule/component---theme-blog-tags-posts-page-687-b6c.42d18faa279882580cbb.css"
-        }
-      ],
       "js": [
         {
-          "file": "component---theme-blog-tags-posts-page-687-b6c.31e582a2ab8332305f87.js",
-          "hash": "6d01207dff9b01c2a847",
-          "publicPath": "/fsn-tabletop-game-rule/component---theme-blog-tags-posts-page-687-b6c.31e582a2ab8332305f87.js"
+          "file": "content---fsn-tabletop-game-rule-docs-doc-44-b-9-1c3.ea1c57c73fa6fd5ebd28.js",
+          "hash": "f5e25759b17edd2ae6cb",
+          "publicPath": "/fsn-tabletop-game-rule/content---fsn-tabletop-game-rule-docs-doc-44-b-9-1c3.ea1c57c73fa6fd5ebd28.js"
         }
       ]
     },
     "7": {
-      "css": [
-        {
-          "file": "component---theme-doc-item-178-a40.de2648345892298aff25.css",
-          "hash": "e9aa8b55ad4981330e85",
-          "publicPath": "/fsn-tabletop-game-rule/component---theme-doc-item-178-a40.de2648345892298aff25.css"
-        }
-      ],
       "js": [
         {
-          "file": "component---theme-doc-item-178-a40.d401a3ca77a6dd6e5d44.js",
-          "hash": "e9aa8b55ad4981330e85",
-          "publicPath": "/fsn-tabletop-game-rule/component---theme-doc-item-178-a40.d401a3ca77a6dd6e5d44.js"
+          "file": "content---fsn-tabletop-game-rule-docs-doc-5-c-11-a00.be3ee571e6753a96ce98.js",
+          "hash": "d0e20fcf7d3483242569",
+          "publicPath": "/fsn-tabletop-game-rule/content---fsn-tabletop-game-rule-docs-doc-5-c-11-a00.be3ee571e6753a96ce98.js"
         }
       ]
     },
     "8": {
-      "css": [
-        {
-          "file": "component---theme-doc-page-1-be-9be.a7dc664af81736e8f518.css",
-          "hash": "2d1661dda4be0b5972a4",
-          "publicPath": "/fsn-tabletop-game-rule/component---theme-doc-page-1-be-9be.a7dc664af81736e8f518.css"
-        }
-      ],
       "js": [
         {
-          "file": "component---theme-doc-page-1-be-9be.97202cd9c3b1964fc4f3.js",
-          "hash": "2d1661dda4be0b5972a4",
-          "publicPath": "/fsn-tabletop-game-rule/component---theme-doc-page-1-be-9be.97202cd9c3b1964fc4f3.js"
+          "file": "content---fsn-tabletop-game-rule-docs-mdxce-3-b8f.2d07cb73dad5406c3b04.js",
+          "hash": "d4591ffe2269550ef935",
+          "publicPath": "/fsn-tabletop-game-rule/content---fsn-tabletop-game-rule-docs-mdxce-3-b8f.2d07cb73dad5406c3b04.js"
         }
       ]
     },
     "9": {
       "js": [
         {
-          "file": "content---fsn-tabletop-game-rule-blog-357-d65.b7293e56f177c646479f.js",
-          "hash": "7bad147dfc88d08dd671",
-          "publicPath": "/fsn-tabletop-game-rule/content---fsn-tabletop-game-rule-blog-357-d65.b7293e56f177c646479f.js"
+          "file": "docsMetadata---fsn-tabletop-game-rule-docse-8-c-78c.ff2ae89a0aa0401b8d5e.js",
+          "hash": "c598ab4a049b94aa8caf",
+          "publicPath": "/fsn-tabletop-game-rule/docsMetadata---fsn-tabletop-game-rule-docse-8-c-78c.ff2ae89a0aa0401b8d5e.js"
         }
       ]
     },
     "10": {
+      "css": [
+        {
+          "file": "main.cf96eb97e7d5d7563dca.css",
+          "hash": "fa86e4106184e58b5ec5",
+          "publicPath": "/fsn-tabletop-game-rule/main.cf96eb97e7d5d7563dca.css"
+        }
+      ],
       "js": [
         {
-          "file": "content---fsn-tabletop-game-rule-blog-8-e-9-216.7f3a4e65aa9725eddcd8.js",
-          "hash": "80acb820deb844940be5",
-          "publicPath": "/fsn-tabletop-game-rule/content---fsn-tabletop-game-rule-blog-8-e-9-216.7f3a4e65aa9725eddcd8.js"
+          "file": "main.b92bb179337e32dd244e.js",
+          "hash": "fa86e4106184e58b5ec5",
+          "publicPath": "/fsn-tabletop-game-rule/main.b92bb179337e32dd244e.js"
         }
       ]
     },
     "11": {
       "js": [
         {
-          "file": "content---fsn-tabletop-game-rule-blog-hello-worldd-61-d83.771bec020d834b640890.js",
-          "hash": "f8dc2e8c510c57f5e57e",
-          "publicPath": "/fsn-tabletop-game-rule/content---fsn-tabletop-game-rule-blog-hello-worldd-61-d83.771bec020d834b640890.js"
+          "file": "metadata---fsn-tabletop-game-rule-docs-doc-1-c-48-60a.d678d62a6e9393c49ef2.js",
+          "hash": "cd7cb4693006ac7d928d",
+          "publicPath": "/fsn-tabletop-game-rule/metadata---fsn-tabletop-game-rule-docs-doc-1-c-48-60a.d678d62a6e9393c49ef2.js"
         }
       ]
     },
     "12": {
       "js": [
         {
-          "file": "content---fsn-tabletop-game-rule-blog-holabdd-5b8.d0e570ad69a0bcdeb647.js",
-          "hash": "a9ca9e61f5b479358c16",
-          "publicPath": "/fsn-tabletop-game-rule/content---fsn-tabletop-game-rule-blog-holabdd-5b8.d0e570ad69a0bcdeb647.js"
+          "file": "metadata---fsn-tabletop-game-rule-docs-doc-247-f-0c6.995678e092e78d23d4e1.js",
+          "hash": "23022b4f523788fcbf95",
+          "publicPath": "/fsn-tabletop-game-rule/metadata---fsn-tabletop-game-rule-docs-doc-247-f-0c6.995678e092e78d23d4e1.js"
         }
       ]
     },
     "13": {
       "js": [
         {
-          "file": "content---fsn-tabletop-game-rule-blog-welcome-286-dd4.d5e213ad27789d1f8d7e.js",
-          "hash": "0315366384d9308fd726",
-          "publicPath": "/fsn-tabletop-game-rule/content---fsn-tabletop-game-rule-blog-welcome-286-dd4.d5e213ad27789d1f8d7e.js"
+          "file": "metadata---fsn-tabletop-game-rule-docs-doc-30-dd-341.e3f5cb7533b9cd0140e5.js",
+          "hash": "86345ccd08e884854cd5",
+          "publicPath": "/fsn-tabletop-game-rule/metadata---fsn-tabletop-game-rule-docs-doc-30-dd-341.e3f5cb7533b9cd0140e5.js"
         }
       ]
     },
     "14": {
       "js": [
         {
-          "file": "content---fsn-tabletop-game-rule-blogaf-1-c18.6926d3aa5567e38fd7bc.js",
-          "hash": "182619c4f0cd121a4378",
-          "publicPath": "/fsn-tabletop-game-rule/content---fsn-tabletop-game-rule-blogaf-1-c18.6926d3aa5567e38fd7bc.js"
+          "file": "metadata---fsn-tabletop-game-rule-docs-doc-4494-8c9.26708b7ea04bc9bf6c50.js",
+          "hash": "98952ccd3520a198d93d",
+          "publicPath": "/fsn-tabletop-game-rule/metadata---fsn-tabletop-game-rule-docs-doc-4494-8c9.26708b7ea04bc9bf6c50.js"
         }
       ]
     },
     "15": {
       "js": [
         {
-          "file": "content---fsn-tabletop-game-rule-docs-doc-1-b-2-f-672.2a678a2eab3a5c4e2169.js",
-          "hash": "6e19bacdc6cddf45f29b",
-          "publicPath": "/fsn-tabletop-game-rule/content---fsn-tabletop-game-rule-docs-doc-1-b-2-f-672.2a678a2eab3a5c4e2169.js"
+          "file": "metadata---fsn-tabletop-game-rule-docs-doc-5-d-3-e-671.4db1bcbe104f85f4fef4.js",
+          "hash": "84c74a6f13dc79a406be",
+          "publicPath": "/fsn-tabletop-game-rule/metadata---fsn-tabletop-game-rule-docs-doc-5-d-3-e-671.4db1bcbe104f85f4fef4.js"
         }
       ]
     },
     "16": {
       "js": [
         {
-          "file": "content---fsn-tabletop-game-rule-docs-doc-2-df-3-1b4.339669c6abb7cfda76fb.js",
-          "hash": "a1ead98b6357ac557646",
-          "publicPath": "/fsn-tabletop-game-rule/content---fsn-tabletop-game-rule-docs-doc-2-df-3-1b4.339669c6abb7cfda76fb.js"
+          "file": "metadata---fsn-tabletop-game-rule-docs-mdx-3-f-0-297.794a3c33f9f7215772e3.js",
+          "hash": "4b004579823527af3a33",
+          "publicPath": "/fsn-tabletop-game-rule/metadata---fsn-tabletop-game-rule-docs-mdx-3-f-0-297.794a3c33f9f7215772e3.js"
         }
       ]
     },
     "17": {
       "js": [
         {
-          "file": "content---fsn-tabletop-game-rule-docs-doc-3616-7c6.1d43fb9437d33aa26760.js",
-          "hash": "6131d0b8f1349ab27a9a",
-          "publicPath": "/fsn-tabletop-game-rule/content---fsn-tabletop-game-rule-docs-doc-3616-7c6.1d43fb9437d33aa26760.js"
+          "file": "runtime~main.89943404069ad940cc30.js",
+          "hash": "f59464548e9380920c36",
+          "publicPath": "/fsn-tabletop-game-rule/runtime~main.89943404069ad940cc30.js"
         }
       ]
     },
     "18": {
+      "css": [
+        {
+          "file": "18.2037637d13ac3d4be12d.css",
+          "hash": "f0fa459d7fb9414311d0",
+          "publicPath": "/fsn-tabletop-game-rule/18.2037637d13ac3d4be12d.css"
+        }
+      ],
       "js": [
         {
-          "file": "content---fsn-tabletop-game-rule-docs-doc-44-b-9-1c3.e532c0d1b26b62c88fca.js",
-          "hash": "0e35b77ed58c48d42f99",
-          "publicPath": "/fsn-tabletop-game-rule/content---fsn-tabletop-game-rule-docs-doc-44-b-9-1c3.e532c0d1b26b62c88fca.js"
+          "file": "18.c32b159edb2d79779aa8.js",
+          "hash": "f0fa459d7fb9414311d0",
+          "publicPath": "/fsn-tabletop-game-rule/18.c32b159edb2d79779aa8.js"
         }
       ]
     },
     "19": {
       "js": [
         {
-          "file": "content---fsn-tabletop-game-rule-docs-doc-5-c-11-a00.bfe23ea90b583c3c8897.js",
-          "hash": "3ceb13861d8370d4f420",
-          "publicPath": "/fsn-tabletop-game-rule/content---fsn-tabletop-game-rule-docs-doc-5-c-11-a00.bfe23ea90b583c3c8897.js"
-        }
-      ]
-    },
-    "20": {
-      "js": [
-        {
-          "file": "content---fsn-tabletop-game-rule-docs-mdxce-3-b8f.0719c5e5ebe8016c2fa1.js",
-          "hash": "cfcf43ac76ef2ed86678",
-          "publicPath": "/fsn-tabletop-game-rule/content---fsn-tabletop-game-rule-docs-mdxce-3-b8f.0719c5e5ebe8016c2fa1.js"
-        }
-      ]
-    },
-    "21": {
-      "js": [
-        {
-          "file": "docsMetadata---fsn-tabletop-game-rule-docse-8-c-78c.9052c70eb049c1c4b137.js",
-          "hash": "fc2777d4ff4faa94bb5a",
-          "publicPath": "/fsn-tabletop-game-rule/docsMetadata---fsn-tabletop-game-rule-docse-8-c-78c.9052c70eb049c1c4b137.js"
-        }
-      ]
-    },
-    "22": {
-      "css": [
-        {
-          "file": "main.cf96eb97e7d5d7563dca.css",
-          "hash": "38425ee8ea90c691878d",
-          "publicPath": "/fsn-tabletop-game-rule/main.cf96eb97e7d5d7563dca.css"
-        }
-      ],
-      "js": [
-        {
-          "file": "main.b6c813c4cc4c03767f75.js",
-          "hash": "38425ee8ea90c691878d",
-          "publicPath": "/fsn-tabletop-game-rule/main.b6c813c4cc4c03767f75.js"
-        }
-      ]
-    },
-    "23": {
-      "js": [
-        {
-          "file": "metadata---fsn-tabletop-game-rule-blog-36-c-94e.00836a6a311e74bf0609.js",
-          "hash": "6614f0791e89b84bf2de",
-          "publicPath": "/fsn-tabletop-game-rule/metadata---fsn-tabletop-game-rule-blog-36-c-94e.00836a6a311e74bf0609.js"
-        }
-      ]
-    },
-    "24": {
-      "js": [
-        {
-          "file": "metadata---fsn-tabletop-game-rule-blog-tags-docusaurus-118-81d.8c329a45580326500d16.js",
-          "hash": "666f1cbc1dddfc61d751",
-          "publicPath": "/fsn-tabletop-game-rule/metadata---fsn-tabletop-game-rule-blog-tags-docusaurus-118-81d.8c329a45580326500d16.js"
-        }
-      ]
-    },
-    "25": {
-      "js": [
-        {
-          "file": "metadata---fsn-tabletop-game-rule-blog-tags-facebookd-80-1d3.c17bb89161fe5efe698d.js",
-          "hash": "ec9f33f9269fd13c4692",
-          "publicPath": "/fsn-tabletop-game-rule/metadata---fsn-tabletop-game-rule-blog-tags-facebookd-80-1d3.c17bb89161fe5efe698d.js"
-        }
-      ]
-    },
-    "26": {
-      "js": [
-        {
-          "file": "metadata---fsn-tabletop-game-rule-blog-tags-hellodc-2-47e.72bc6f4ab04c8427f211.js",
-          "hash": "435b519351ce5f53f275",
-          "publicPath": "/fsn-tabletop-game-rule/metadata---fsn-tabletop-game-rule-blog-tags-hellodc-2-47e.72bc6f4ab04c8427f211.js"
-        }
-      ]
-    },
-    "27": {
-      "js": [
-        {
-          "file": "metadata---fsn-tabletop-game-rule-blog-tags-hola-774-7a6.5f8aa00d61da4b3e8797.js",
-          "hash": "b41cc22fe66cbd1a78d8",
-          "publicPath": "/fsn-tabletop-game-rule/metadata---fsn-tabletop-game-rule-blog-tags-hola-774-7a6.5f8aa00d61da4b3e8797.js"
-        }
-      ]
-    },
-    "28": {
-      "js": [
-        {
-          "file": "metadata---fsn-tabletop-game-rule-blog-welcome-7-f-7-f29.636fbacaeb3ae370930f.js",
-          "hash": "5d05e60662b814975a4d",
-          "publicPath": "/fsn-tabletop-game-rule/metadata---fsn-tabletop-game-rule-blog-welcome-7-f-7-f29.636fbacaeb3ae370930f.js"
-        }
-      ]
-    },
-    "29": {
-      "js": [
-        {
-          "file": "metadata---fsn-tabletop-game-rule-docs-doc-1-c-48-60a.70029c5775b8cf5a4047.js",
-          "hash": "5bcbd31f6919b80594d7",
-          "publicPath": "/fsn-tabletop-game-rule/metadata---fsn-tabletop-game-rule-docs-doc-1-c-48-60a.70029c5775b8cf5a4047.js"
-        }
-      ]
-    },
-    "30": {
-      "js": [
-        {
-          "file": "metadata---fsn-tabletop-game-rule-docs-doc-247-f-0c6.5f269fd3b50a7d125831.js",
-          "hash": "55b7d22abc64f2f4dcde",
-          "publicPath": "/fsn-tabletop-game-rule/metadata---fsn-tabletop-game-rule-docs-doc-247-f-0c6.5f269fd3b50a7d125831.js"
-        }
-      ]
-    },
-    "31": {
-      "js": [
-        {
-          "file": "metadata---fsn-tabletop-game-rule-docs-doc-30-dd-341.e9bbd7a89426326ab345.js",
-          "hash": "95ca68939e54b17390c7",
-          "publicPath": "/fsn-tabletop-game-rule/metadata---fsn-tabletop-game-rule-docs-doc-30-dd-341.e9bbd7a89426326ab345.js"
-        }
-      ]
-    },
-    "32": {
-      "js": [
-        {
-          "file": "metadata---fsn-tabletop-game-rule-docs-doc-4494-8c9.8d4239976f7f66df1034.js",
-          "hash": "f24cb7194a1a95d45539",
-          "publicPath": "/fsn-tabletop-game-rule/metadata---fsn-tabletop-game-rule-docs-doc-4494-8c9.8d4239976f7f66df1034.js"
-        }
-      ]
-    },
-    "33": {
-      "js": [
-        {
-          "file": "metadata---fsn-tabletop-game-rule-docs-doc-5-d-3-e-671.1425139a44d3371806a2.js",
-          "hash": "34ad115aee6a28985eec",
-          "publicPath": "/fsn-tabletop-game-rule/metadata---fsn-tabletop-game-rule-docs-doc-5-d-3-e-671.1425139a44d3371806a2.js"
-        }
-      ]
-    },
-    "34": {
-      "js": [
-        {
-          "file": "metadata---fsn-tabletop-game-rule-docs-mdx-3-f-0-297.5291525fb705d2f171a5.js",
-          "hash": "651b0e2eb713b967c7e8",
-          "publicPath": "/fsn-tabletop-game-rule/metadata---fsn-tabletop-game-rule-docs-mdx-3-f-0-297.5291525fb705d2f171a5.js"
-        }
-      ]
-    },
-    "35": {
-      "js": [
-        {
-          "file": "nextItem---fsn-tabletop-game-rule-blog-hello-worldc-98-285.b89ac66dc2411f73b6ca.js",
-          "hash": "5344cadf664522f4f497",
-          "publicPath": "/fsn-tabletop-game-rule/nextItem---fsn-tabletop-game-rule-blog-hello-worldc-98-285.b89ac66dc2411f73b6ca.js"
-        }
-      ]
-    },
-    "36": {
-      "js": [
-        {
-          "file": "nextItem---fsn-tabletop-game-rule-blog-welcomeddc-6c0.e3cf0d34bf477012fe79.js",
-          "hash": "a96bab8c019b5f9d5ff0",
-          "publicPath": "/fsn-tabletop-game-rule/nextItem---fsn-tabletop-game-rule-blog-welcomeddc-6c0.e3cf0d34bf477012fe79.js"
-        }
-      ]
-    },
-    "37": {
-      "js": [
-        {
-          "file": "runtime~main.17f8594e613f0330b484.js",
-          "hash": "38c473dcab2969a96153",
-          "publicPath": "/fsn-tabletop-game-rule/runtime~main.17f8594e613f0330b484.js"
-        }
-      ]
-    },
-    "38": {
-      "js": [
-        {
-          "file": "tags---fsn-tabletop-game-rule-blog-tags-39-e-eaf.d7bd222f94d5b09d121a.js",
-          "hash": "55d8b25f3f937e37beda",
-          "publicPath": "/fsn-tabletop-game-rule/tags---fsn-tabletop-game-rule-blog-tags-39-e-eaf.d7bd222f94d5b09d121a.js"
-        }
-      ]
-    },
-    "39": {
-      "js": [
-        {
-          "file": "39.31235521b986317ba2ff.js",
-          "hash": "f5ca8d8050dbdc5e19cf",
-          "publicPath": "/fsn-tabletop-game-rule/39.31235521b986317ba2ff.js"
+          "file": "19.346f012b33ead186af12.js",
+          "hash": "05a1b9bbc8d9a97d7251",
+          "publicPath": "/fsn-tabletop-game-rule/19.346f012b33ead186af12.js"
         }
       ]
     }
