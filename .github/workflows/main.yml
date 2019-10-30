@@ -29,9 +29,7 @@ jobs:
         chmod 600 "/home/runner/.ssh/known_hosts"
         eval $(ssh-agent)
         ssh-add "/home/runner/.ssh/id_rsa"
-        npm install
-        npm run build
-        npm run deploy
+        yarn && yarn deploy
       env:
         GIT_USER: deploy_bot
         USE_SSH: true
