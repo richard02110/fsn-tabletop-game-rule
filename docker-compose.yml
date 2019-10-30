@@ -1,0 +1,19 @@
+version: '3'
+services:
+  node_app:
+    image: node
+    container_name: fsn-app
+    restart: always
+    tty: true
+    ports:
+      - "3000:3000"
+    volumes:
+      - .:/tmp
+    networks:
+      - node-network
+
+#Docker Networks
+networks:
+  node-network:
+    driver: bridge
+
