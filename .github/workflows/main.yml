@@ -1,0 +1,38 @@
+name: Deploy Docusaurus
+ on:
+   push:
+     branches:
+     - master
+ jobs:
+   build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [12.x]
+    steps:
+    - uses: actions/checkout@v1
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
+    - name: npm install, build, and publish
+      run: |
+        git config --global user.name "github_actions"
+        git config --global user.email "github_actions@noreply.pts.org.tw"
+        mkdir -p "/home/runner/.ssh"
+        touch "/home/runner/.ssh/known_hosts"
+        echo "$DEPLOY_SSH_KEY" > "/home/runner/.ssh/id_rsa"
+        echo "StrictHostKeyChecking no" >> "/home/runner/.ssh/config"
+        ssh-keyscan -t rsa "github.com" >> "/home/runner/.ssh/known_hosts"
+        chmod 700 "/home/runner/.ssh"
+        chmod 600 "/home/runner/.ssh/id_rsa"
+        chmod 600 "/home/runner/.ssh/known_hosts"
+        eval $(ssh-agent)
+        ssh-add "/home/runner/.ssh/id_rsa"
+        npm install
+        npm run build
+        npm run deploy
+      env:
+        GIT_USER: deploy_bot
+        USE_SSH: true
+        DEPLOY_SSH_KEY: ${{ secrets.DEPLOY_SSH_KEY }}
