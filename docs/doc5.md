@@ -5,7 +5,7 @@ title: 英靈
 
 ## Saber
 - 誓約勝利之劍(Excalibur)
-12 寶/B $8
+  12 寶/B $8
   [真名解放]
   使用時：若在高潮回合則合計威力+4。
 - 風王結界(Invisible Air)**
