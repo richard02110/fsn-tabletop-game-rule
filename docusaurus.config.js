@@ -8,7 +8,7 @@
 module.exports = {
   title: 'Fate/stay night Dominate Grail War',
   tagline: '桌遊中文規則',
-  url: 'https://whoisback.github.io',
+  url: 'https://richard02110.github.io',
   baseUrl: '/fsn-tabletop-game-rule/',
   favicon: 'img/favicon.ico',
   organizationName: 'whoisback', // Usually your GitHub org/user name.
