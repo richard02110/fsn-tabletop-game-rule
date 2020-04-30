@@ -18,7 +18,7 @@ jobs:
     - name: npm install, build, and publish
       run: |
         git config --global user.name "github_actions"
-        git config --global user.email "github_actions@noreply.pts.org.tw"
+        git config --global user.email "github_actions@noreply"
         mkdir -p "/home/runner/.ssh"
         touch "/home/runner/.ssh/known_hosts"
         echo "$DEPLOY_SSH_KEY" > "/home/runner/.ssh/id_rsa"
